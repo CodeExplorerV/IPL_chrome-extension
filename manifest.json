@@ -1,0 +1,17 @@
+{
+    "name": "My Chrome Extension",
+    "version": "1.0.0",
+    "description": "Best extension in the world",
+    "manifest_version": 3,
+    "author": "Varshini Veeramalla",
+    "icons": {
+        "16": "icon16.jpg",
+        "48": "icon48.jpg",
+        "128": "icon128.jpg"
+    },
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "My Chrome Extension",
+        "default_icon": "icon48.jpg"
+    }
+}
